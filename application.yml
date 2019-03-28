@@ -19,7 +19,7 @@ server:
 spring:
   application:
     name: USER-PROVIDER
-  profiles: dev
+  profiles: test
 eureka:
   client:
     service-url:
